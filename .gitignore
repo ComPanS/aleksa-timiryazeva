@@ -1,0 +1,5 @@
+node_modules/
+docs/
+.modernize-legacy-site-state.json
+.DS_Store
+.github/workflows/deploy-pages.yml.bak
